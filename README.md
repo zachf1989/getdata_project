@@ -10,11 +10,11 @@
 
 ### Codebook for tinydata.txt
 
-**subject**  <br />
+**subject**  
 	definition: represents the number of the person who was being evaluated  
 	type: integer  
 	range: 1-30  
-<br />	
+<br />
 **activity**  
 	definition: describes the type of activity that the subject was performing while the data was collected  
 	type: factor  
@@ -25,7 +25,7 @@
 		SITTING  
 		STANDING  
 		LAYING  
-
+<br />
 **measurements**  
 	definiiton: each column represents the mean value of each measurement for every subject and every activity  
 	type: numeric  
