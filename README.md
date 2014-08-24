@@ -49,7 +49,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 ###### subject
 	definition: represents the number of the person who was being evaluated  
 	type: integer  
-	range: 1-30  
+	range: 1, 30  
 <br />
 ###### activity
 	definition: describes the type of activity that the subject was performing while the data was collected  
@@ -65,7 +65,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 ###### measurements
 	definiiton: each column represents the mean value of each measurement for every subject and every activity  
 	type: numeric  
-	range: -1-1
+	range: -1, 1
 	column names:  
 		tBodyAccmeanX  
 		tBodyAccmeanY  
