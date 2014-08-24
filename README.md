@@ -10,11 +10,11 @@
 
 ### Codebook for tinydata.txt
 
-**subject**  
+**subject**  <br />
 	definition: represents the number of the person who was being evaluated  
 	type: integer  
 	range: 1-30  
-	
+<br />	
 **activity**  
 	definition: describes the type of activity that the subject was performing while the data was collected  
 	type: factor  
