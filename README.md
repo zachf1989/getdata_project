@@ -10,7 +10,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 - An identifier of the subject who carried out the experiment.
 - The activity that the subject performed
-- 561 meansvariables 
+- The mean of the 561 measurements for each subject and activity
 
 
 ### The dataset includes the following files:
@@ -46,12 +46,12 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 ### Codebook for tinydata.txt
 
-**subject**  
+###### subject
 	definition: represents the number of the person who was being evaluated  
 	type: integer  
 	range: 1-30  
 <br />
-**activity**  
+###### activity
 	definition: describes the type of activity that the subject was performing while the data was collected  
 	type: factor  
 	range:  
@@ -62,7 +62,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 		STANDING  
 		LAYING  
 <br />
-**measurements**  
+###### measurements
 	definiiton: each column represents the mean value of each measurement for every subject and every activity  
 	type: numeric  
 	range: -1-1
