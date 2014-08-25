@@ -1,5 +1,7 @@
 ### Codebook
 
+A description of the data variables used in the tiny dataset.
+
 ###### subject
 	definition: represents the number of the person who was being evaluated  
 	type: integer  
